@@ -21,3 +21,7 @@ Movie/Book library
 Note taking app
 to do app
 https://www.pythonforbeginners.com/cheatsheet/python-file-handling
+
+Callback function is nothing more than a function that is passed to another function. In python they are called higher order functions
+
+Object references and clone - study more on this
