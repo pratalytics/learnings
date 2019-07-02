@@ -13,3 +13,11 @@ List of projects I am learning about
 ### Linux/Bash
 - [ ] How to move multiple files from one location to another
 - [ ] How to copy multiple files from one location to another
+
+Projects to work on
+Hangman
+Restaurant Capacity
+Movie/Book library
+Note taking app
+to do app
+https://www.pythonforbeginners.com/cheatsheet/python-file-handling
