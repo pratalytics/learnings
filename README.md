@@ -25,3 +25,16 @@ https://www.pythonforbeginners.com/cheatsheet/python-file-handling
 Callback function is nothing more than a function that is passed to another function. In python they are called higher order functions
 
 Object references and clone - study more on this
+
+```console
+console.log({} === {})
+``false
+```
+Two objects are equal if they are in the same object memory. 
+
+```javascript
+let someObject = {}
+let otherObject = someObject
+
+console.log(someObject === otherObject)
+```
