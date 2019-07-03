@@ -28,7 +28,7 @@ Object references and clone - study more on this
 
 ```console
 console.log({} === {})
-``false
+\\false
 ```
 Two objects are equal if they are in the same object memory. 
 
@@ -37,4 +37,8 @@ let someObject = {}
 let otherObject = someObject
 
 console.log(someObject === otherObject)
+\\true
 ```
+indexOf works with strings, booleans and numbers but if the array contains objects it is better to use findindex function
+
+this is not bound to arrow function
