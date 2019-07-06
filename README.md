@@ -42,3 +42,6 @@ console.log(someObject === otherObject)
 indexOf works with strings, booleans and numbers but if the array contains objects it is better to use findindex function
 
 this is not bound to arrow function
+
+## Javascript Data storage
+Able to perform CRUD operations 
