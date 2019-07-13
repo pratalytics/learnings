@@ -45,3 +45,11 @@ this is not bound to arrow function
 
 ## Javascript Data storage
 Able to perform CRUD operations 
+
+# My new style of learning coding languages
+
+So normally I watch each and every video of udemy and coursera to learn python languages which I am finding it a bit slow. So now I am going to try out a new style. The explaination is given below
+
+1. First, know all about the tools
+2. Watch the videos at 3x speed and just understand enough of the programming constructs
+3. Then try to apply it to the projects you are interested in.
