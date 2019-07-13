@@ -7,7 +7,14 @@
 All of the files in the application share the same global namespace.\
 The order in which they are loaded in the HTML matters
 ### Refactoring
-The idea is to change the code with changing its functionality
+The idea is to change the code with changing its functionality. The goal of refactoring is to make the code readable. How far you can abstract the code.
+
+### Debugging
+Use the debugger statement
+
+
+
+
 ## Tools
 ### Declaring and assigning variables, naming convention
 ```javascript
